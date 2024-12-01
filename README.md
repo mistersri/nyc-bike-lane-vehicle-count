@@ -2,7 +2,7 @@
 
 This project uses computer vision to detect and count vehicles in a designated bike lane from public video footage provided by NYC DOT. The system is designed to identify vehicles encroaching into the bike lane and log this information to a Google Sheet for analysis.
 
-**_Warning: Test purposes only. The confidence interval had to be set very low (0.01) to detect any vehicles in the bike lane, but often reports false postives in testing. For easy confidence threshold testing, use Roboflow's [web interface for vehicle detection](https://universe.roboflow.com/detection-vehicle-g6pdp/vehicle-detection-vokgr/model/). _**
+**_Warning: Test purposes only. The confidence interval had to be set very low (0.01) to detect any vehicles in the bike lane, but often reports false postives in testing. For easy confidence threshold testing, use Roboflow's [web interface for vehicle detection](https://universe.roboflow.com/detection-vehicle-g6pdp/vehicle-detection-vokgr/model/)._**
 
 ## Features
 
