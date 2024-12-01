@@ -6,7 +6,7 @@ This project uses computer vision to detect and count vehicles in a designated b
 
 ## Features
 
-- **Real-time Detection**: Utilizes a machine learning model to detect vehicles in video frames.
+- **Real-time Detection**: Utilizes a machine learning model [(vehicle detection)](https://universe.roboflow.com/leo-ueno/vehicle-detection-3mmwj) to detect vehicles in video frames.
 - **Zone-Based Counting**: Counts vehicles within a defined polygonal zone representing the bike lane.
 - **Data Logging**: Records the count of vehicles in the bike lane along with timestamps to a Google Sheet.
 - **Video Annotation**: Annotates video frames with detection boxes and zone overlays.
