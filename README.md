@@ -31,7 +31,7 @@ This project uses computer vision to detect and count vehicles in a designated b
 ## Troubleshooting
 - Ensure that your polygon zone accurately covers the bike lane.
 - Adjust confidence levels if detections are inconsistent.
-- Consider using a GPU for improved performance. (e.g. in a virtual via [Google Collab](https://colab.research.google.com/))
+- Consider using a GPU for improved performance (e.g. in a virtual via [Google Collab](https://colab.research.google.com/)).
 
 ## Special Thanks
 - [James Gallagher](https://blog.roboflow.com/author/james/). (May 30, 2023). [How to Count Objects in a Zone](https://blog.roboflow.com/how-to-count-objects-in-a-zone/). Roboflow Blog.
