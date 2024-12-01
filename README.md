@@ -22,7 +22,7 @@ This project uses computer vision to detect and count vehicles in a designated b
 - Supervision and Inference Libraries
 
 ## Usage
-- Run the script to start detecting and counting vehicles.
+- Run the script `public_bike_lane.py` to start detecting and counting vehicles.
 - The annotated video will be saved as `bike_lane_output.mp4`, and vehicle counts will be logged to the specified Google Sheet.
 - Ride safely.
 
